@@ -1,0 +1,22 @@
+Limitations: Why the Food Model Accuracy Did Not Improve
+    - The available data may not include all important factors related to food insecurity.
+    - Food insecurity is a complex issue and can change quickly over time.
+    - Some survey answers may be incomplete, inaccurate, or self-reported with bias.
+    - Important variables such as debt, housing costs, savings, and local food prices may be missing.
+    - There may be overlap between food secure and food insecure groups, making prediction harder.
+    - If one class has more cases than the other, the model may struggle to learn both groups well.
+    - Many categorical survey variables can create noisy or weak signals.
+    - Different machine learning models gave similar results, suggesting the main limitation is the data rather than the algorithm.
+
+
+Future Steps to Improve Performance
+    - Collect more data with a larger sample size.
+    - Add stronger variables such as debt, rent burden, benefits, and household expenses.
+    - Use a better measure of food insecurity based on multiple questions instead of one variable.
+    - Clean missing values and improve data quality.
+    - Balance the classes using sampling methods or class weights.
+    - Combine rare categories to reduce noise.
+    - Try feature selection to keep only the most useful variables.
+    - Build separate models for different groups (families, older adults, single parents).
+    - Use additional evaluation metrics such as recall, precision, and F1-score, not only accuracy.
+    - Test newer data to improve prediction of recent food insecurity trends.

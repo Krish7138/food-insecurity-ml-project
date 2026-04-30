@@ -1,0 +1,62 @@
+Feature,Importance
+Consider your grocery shopping habits in the past 12 months. How often have you avoided food that requires cooking to reduce energy usage?_Never,0.13956983
+Consider your grocery shopping habits in the past 12 months. How often have you avoided food that requires cooking to reduce energy usage?_Almost every month,0.05464245
+Consider your grocery shopping habits in the past 12 months. How often have you avoided food that requires cooking to reduce energy usage?_1 or 2 months,0.04867081
+"What is your annual household income before tax?_More than £58,900 p.a.",0.043468
+Consider your grocery shopping habits in the past 12 months. How often have you avoided food that requires cooking to reduce energy usage?_Some months but not every month,0.03427269
+fuel_vulnerability_score,0.02556774
+"What is your annual household income before tax?_Less than £14,900 p.a.",0.02261603
+Which of the following best describes your household?_Living on my own WITH children under 18,0.021736033
+medical_heat_risk,0.020485321
+Do you use a prepayment or pay-as-you-go meter to pay for your energy usage?_Yes,0.017647581
+Which of the following best describes the house you currently live in?_Buying the house on a mortgage,0.016348228
+"What is your annual household income before tax?_£14,901- £24,300 p.a.",0.015965527
+health_risk,0.015789608
+Which of the following best describes the house you currently live in?_Owning the house outright,0.015653072
+"What is your annual household income before tax?_£37,901- £58,900 p.a.",0.015559713
+Which of the following best describes the house you currently live in?_Living in rented accommodation arranged by the Local Authority,0.0154399425
+What range best describes your age group?_55 to 59,0.015147317
+Which of the following best describes the house you currently live in?_nan,0.015118453
+What is your annual household income before tax?_Prefer not to say,0.015039792
+Which of the following best describes the house you currently live in?_Living in rented accommodation from Housing Association,0.014967916
+"What is your annual household income before tax?_£24,301- £37,900 p.a.",0.014558745
+Do you know the Energy Performance Certificate (EPC) rating for the house you currently live in?_E,0.014485848
+What range best describes your age group?_30 to 34,0.014329521
+Which of the following best describes your household?_Living with partner/ spouse (NO children or children have left home),0.01416255
+What range best describes your age group?_45 to 49,0.01404962
+What range best describes your age group?_16 to 19,0.013869978
+prepay_meter_risk,0.013753403
+Which of the following best describes the house you currently live in?_Living in student accommodation/ student halls,0.013726495
+Do you know the Energy Performance Certificate (EPC) rating for the house you currently live in?_C,0.013650728
+Do you use a prepayment or pay-as-you-go meter to pay for your energy usage?_Don't know,0.013577302
+Do you use a prepayment or pay-as-you-go meter to pay for your energy usage?_No,0.01346098
+"Which of the following best describes your household?_Living with other adults that are non-family members, such as friends/ flatmates",0.013432773
+"Which of the following best describes your household?_Living with other adult family members (i.e. aged 18 or older, such as adult children, parents and/ or elderly relatives)",0.01317064
+What range best describes your age group?_65 to 69,0.013123203
+What range best describes your age group?_50 to 54,0.012946145
+Do you know the Energy Performance Certificate (EPC) rating for the house you currently live in?_B,0.012910164
+Do you know the Energy Performance Certificate (EPC) rating for the house you currently live in?_D,0.012822114
+What range best describes your age group?_25 to 29,0.012712071
+Which of the following best describes your household?_Living on my own (NO children or children have left home),0.012458741
+What range best describes your age group?_20 to 24,0.012267456
+What range best describes your age group?_60 to 64,0.012224601
+Do you know the Energy Performance Certificate (EPC) rating for the house you currently live in?_F,0.012022749
+Do you know the Energy Performance Certificate (EPC) rating for the house you currently live in?_Don't know,0.011977588
+Which of the following best describes the house you currently live in?_Renting from private landlord,0.011733796
+What range best describes your age group?_35 to 39,0.011619088
+What range best describes your age group?_40 to 44,0.011370179
+incentivised,0.011124359
+Do you know the Energy Performance Certificate (EPC) rating for the house you currently live in?_A,0.011067104
+Which of the following best describes the house you currently live in?_Temporarily living with friends and/ or family while attempting to find permanent accommodation,0.010967556
+Which of the following best describes your household?_Living with partner/ spouse/ older relative WITH children under 18,0.010689381
+Which of the following best describes the house you currently live in?_Living in a night shelter/ hostel,0.01010096
+What range best describes your age group?_70 to 74,0.009098117
+Do you know the Energy Performance Certificate (EPC) rating for the house you currently live in?_G,0.008460226
+What range best describes your age group?_75 to 79,0.0043696766
+Unemployed,0.0
+Retired,0.0
+Working full-time,0.0
+income_risk_group,0.0
+employment_risk,0.0
+Working part-time,0.0
+What range best describes your age group?_80 or over,0.0

@@ -1,0 +1,34 @@
+{
+  "input_file": "Food_insecurity_Raw_Survey_Responses.xlsx",
+  "sheets_found": [
+    "user_location",
+    "2022-12-03_incentivised",
+    "2022-11-22_27_incentivised",
+    "2022-11-22_27_non_incentivised",
+    "2022_12_05_all_responses_cleane",
+    "adult_household_fi",
+    "USDA_food_security_coding",
+    "Sheet1",
+    "Preliminary results"
+  ],
+  "rows_after_processing": 2717,
+  "columns_after_processing": 78,
+  "duplicate_rows_after_consent_filter": 0,
+  "food_label_distribution": {
+    "High": 1411,
+    "Very Low": 454,
+    "Marginal": 438,
+    "Low": 414
+  },
+  "child_label_distribution": {
+    "High": 2352,
+    "Low": 218,
+    "Marginal": 118,
+    "Very Low": 29
+  },
+  "fuel_label_distribution": {
+    "Secure": 1766,
+    "Moderate Risk": 606,
+    "High Risk": 345
+  }
+}

@@ -1,0 +1,12 @@
+[
+  "What is your annual household income before tax?",
+  "Which of the following best describes your household?",
+  "What range best describes your age group?",
+  "How would you describe your gender?",
+  "In general, how satisfied are you with your life?",
+  "Do you have any physical or mental health conditions or illnesses that are limiting your day to day activities?",
+  "How often do you feel isolated from others or left out?",
+  "social_support_score",
+  "isolation_score",
+  "health_risk"
+]

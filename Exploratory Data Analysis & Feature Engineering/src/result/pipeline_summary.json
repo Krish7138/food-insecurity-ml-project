@@ -1,0 +1,11 @@
+{
+  "input_csv": "C:\\Users\\DELL\\Desktop\\priyank\\it\\assignment\\final\\Exploratory Data Analysis & Feature Engineering\\cleaned_dataset_role01.csv",
+  "rows": 2717,
+  "columns_after_engineering": 87,
+  "selected_counts": {
+    "food_features": 10,
+    "fuel_features": 5,
+    "child_features": 7
+  },
+  "result_dir": "C:\\Users\\DELL\\Desktop\\priyank\\it\\assignment\\final\\Exploratory Data Analysis & Feature Engineering\\src\\result"
+}

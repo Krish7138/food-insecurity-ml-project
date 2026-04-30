@@ -1,0 +1,42 @@
+Feature,Importance
+Which of the following best describes your household?_Living on my own WITH children under 18,0.18269442
+Which of the following best describes your household?_Living with partner/ spouse/ older relative WITH children under 18,0.1459158
+"What is your annual household income before tax?_More than £58,900 p.a.",0.09527698
+"Which of the following best describes your household?_Living with other adult family members (i.e. aged 18 or older, such as adult children, parents and/ or elderly relatives)",0.06876446
+Which of the following best describes your household?_Living on my own (NO children or children have left home),0.06427322
+"Which of the following best describes your household?_Living with other adults that are non-family members, such as friends/ flatmates",0.059729435
+Which of the following best describes your household?_Living with partner/ spouse (NO children or children have left home),0.055048577
+social_support_score,0.0267528
+"What is your annual household income before tax?_Less than £14,900 p.a.",0.026727688
+health_risk,0.018618487
+What range best describes your age group?_45 to 49,0.018108888
+"What is your annual household income before tax?_£37,901- £58,900 p.a.",0.017627116
+How would you describe your gender?_Female,0.016573802
+What range best describes your age group?_40 to 44,0.01562127
+"What is your annual household income before tax?_£24,301- £37,900 p.a.",0.01526187
+What range best describes your age group?_30 to 34,0.015255914
+What range best describes your age group?_25 to 29,0.015158948
+What range best describes your age group?_35 to 39,0.014782707
+"What is your annual household income before tax?_£14,901- £24,300 p.a.",0.014494707
+How would you describe your gender?_Male,0.014465166
+What range best describes your age group?_20 to 24,0.014407701
+How would you describe your gender?_Prefer not to say,0.013810653
+What range best describes your age group?_50 to 54,0.013646588
+incentivised,0.013516422
+What range best describes your age group?_55 to 59,0.012154397
+What is your annual household income before tax?_Prefer not to say,0.0112186195
+What range best describes your age group?_60 to 64,0.010153096
+What range best describes your age group?_65 to 69,0.009940216
+Retired,0.0
+Unemployed,0.0
+Working part-time,0.0
+Working full-time,0.0
+Student,0.0
+employment_risk,0.0
+income_risk_group,0.0
+What range best describes your age group?_16 to 19,0.0
+income_unemployed_interaction,0.0
+What range best describes your age group?_80 or over,0.0
+What range best describes your age group?_75 to 79,0.0
+What range best describes your age group?_70 to 74,0.0
+How would you describe your gender?_Non binary/ other,0.0

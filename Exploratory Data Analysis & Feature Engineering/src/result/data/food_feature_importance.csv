@@ -1,0 +1,48 @@
+Feature,Importance
+"What is your annual household income before tax?_More than £58,900 p.a.",0.10224688
+social_support_score,0.077170044
+"What is your annual household income before tax?_Less than £14,900 p.a.",0.05026348
+How often do you feel isolated from others or left out?_Often,0.03734557
+"What is your annual household income before tax?_£14,901- £24,300 p.a.",0.03462865
+"In general, how satisfied are you with your life?",0.034015756
+"What is your annual household income before tax?_£37,901- £58,900 p.a.",0.03011371
+Which of the following best describes your household?_Living on my own WITH children under 18,0.02915113
+Do you have any physical or mental health conditions or illnesses that are limiting your day to day activities?_No,0.028594699
+isolation_score,0.028059063
+How often do you feel isolated from others or left out?_Hardly ever or never,0.026540251
+health_risk,0.02213994
+What range best describes your age group?_60 to 64,0.021659365
+"What is your annual household income before tax?_£24,301- £37,900 p.a.",0.021189323
+How would you describe your gender?_Male,0.02045766
+What range best describes your age group?_45 to 49,0.020143986
+"Which of the following best describes your household?_Living with other adult family members (i.e. aged 18 or older, such as adult children, parents and/ or elderly relatives)",0.019630244
+What range best describes your age group?_20 to 24,0.019509763
+Do you have any physical or mental health conditions or illnesses that are limiting your day to day activities?_Yes,0.019286627
+Do you have any physical or mental health conditions or illnesses that are limiting your day to day activities?_Prefer not to say,0.019087616
+What range best describes your age group?_25 to 29,0.0190685
+What range best describes your age group?_70 to 74,0.018962666
+What range best describes your age group?_50 to 54,0.018946676
+What range best describes your age group?_16 to 19,0.01879147
+incentivised,0.018425716
+Which of the following best describes your household?_Living with partner/ spouse (NO children or children have left home),0.018305818
+What range best describes your age group?_55 to 59,0.018019015
+What range best describes your age group?_35 to 39,0.01798671
+"Which of the following best describes your household?_Living with other adults that are non-family members, such as friends/ flatmates",0.017930018
+Which of the following best describes your household?_Living with partner/ spouse/ older relative WITH children under 18,0.017912146
+What is your annual household income before tax?_Prefer not to say,0.017511938
+What range best describes your age group?_30 to 34,0.017490577
+How often do you feel isolated from others or left out?_Some of the time,0.017343558
+How would you describe your gender?_Female,0.017248368
+What range best describes your age group?_40 to 44,0.016778748
+What range best describes your age group?_65 to 69,0.016471695
+How would you describe your gender?_Non binary/ other,0.016287949
+Which of the following best describes your household?_Living on my own (NO children or children have left home),0.015695926
+How would you describe your gender?_Prefer not to say,0.013583636
+What range best describes your age group?_75 to 79,0.006005092
+Working part-time,0.0
+employment_risk,0.0
+Working full-time,0.0
+Unemployed,0.0
+income_risk_group,0.0
+Retired,0.0
+What range best describes your age group?_80 or over,0.0
