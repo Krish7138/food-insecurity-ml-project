@@ -6,9 +6,9 @@ This stage prepares raw survey responses for machine learning by converting nois
 
 The notebook in this folder performs the full preprocessing pipeline:
 
- Loads multiple survey sheets from one Excel workbook
- Merges them into a single dataframe
- Filters responses based on explicit consent
+ - Loads multiple survey sheets from one Excel workbook
+- Merges them into a single dataframe
+- Filters responses based on explicit consent
 - Standardizes long question text into stable column names
 - Converts text responses to numeric values
 - Builds domain scores and target labels
